@@ -1,5 +1,5 @@
 
-![Network cell analyzer](https://user-images.githubusercontent.com/48247171/113440411-02500000-93f5-11eb-9004-f745e4a821d8.png)
+![113440411-02500000-93f5-11eb-9004-f745e4a821d8](https://user-images.githubusercontent.com/56998706/193647434-9bc66487-0d49-4c58-82b3-fee2d5a47a61.png)
 
 # NetworkCellAnalyzer
 The app collects data received from the serving base station to which your android device is connected, analyzes the information, stores it in a database and generates statistics.
