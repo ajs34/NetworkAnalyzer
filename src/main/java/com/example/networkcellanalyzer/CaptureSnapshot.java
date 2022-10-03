@@ -1,4 +1,4 @@
-package com.example.networkcellanalyzer;
+package com.anthonyjsaab.networkcellanalyzer;
 
 import android.Manifest;
 import android.annotation.SuppressLint;

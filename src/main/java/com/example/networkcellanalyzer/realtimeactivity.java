@@ -1,4 +1,4 @@
-package com.example.networkcellanalyzer;
+package com.anthonyjsaab.networkcellanalyzer;
 
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;

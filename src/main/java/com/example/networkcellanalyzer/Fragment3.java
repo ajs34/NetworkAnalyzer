@@ -1,4 +1,4 @@
-package com.example.networkcellanalyzer;
+package com.anthonyjsaab.networkcellanalyzer;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;

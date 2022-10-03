@@ -1,4 +1,4 @@
-package com.example.networkcellanalyzer;
+package com.anthonyjsaab.networkcellanalyzer;
 
 import android.Manifest;
 import android.content.Intent;
@@ -23,7 +23,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
 
-import com.example.networkcellanalyzer.ui.main.SectionsPagerAdapter;
+import com.anthonyjsaab.networkcellanalyzer.ui.main.SectionsPagerAdapter;
 
 import java.util.Date;
 import java.util.Timer;

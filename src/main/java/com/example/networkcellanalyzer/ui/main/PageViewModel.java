@@ -1,4 +1,4 @@
-package com.example.networkcellanalyzer.ui.main;
+package com.anthonyjsaab.networkcellanalyzer.ui.main;
 
 import androidx.arch.core.util.Function;
 import androidx.lifecycle.LiveData;

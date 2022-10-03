@@ -1,4 +1,4 @@
-package com.example.networkcellanalyzer.ui.main;
+package com.anthonyjsaab.networkcellanalyzer.ui.main;
 
 import android.content.Context;
 
@@ -8,11 +8,11 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
-import com.example.networkcellanalyzer.Fragment1;
-import com.example.networkcellanalyzer.Fragment2;
-import com.example.networkcellanalyzer.Fragment3;
-import com.example.networkcellanalyzer.MainActivity;
-import com.example.networkcellanalyzer.R;
+import com.anthonyjsaab.networkcellanalyzer.Fragment1;
+import com.anthonyjsaab.networkcellanalyzer.Fragment2;
+import com.anthonyjsaab.networkcellanalyzer.Fragment3;
+import com.anthonyjsaab.networkcellanalyzer.MainActivity;
+import com.anthonyjsaab.networkcellanalyzer.R;
 
 /**
  * A [FragmentPagerAdapter] that returns a fragment corresponding to

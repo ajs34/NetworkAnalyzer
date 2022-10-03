@@ -1,4 +1,4 @@
-package com.example.networkcellanalyzer;
+package com.anthonyjsaab.networkcellanalyzer;
 
 import android.content.Intent;
 import android.os.Bundle;

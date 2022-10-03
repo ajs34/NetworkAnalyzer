@@ -1,4 +1,4 @@
-package com.example.networkcellanalyzer.ui.main;
+package com.anthonyjsaab.networkcellanalyzer.ui.main;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,7 +12,7 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
 
-import com.example.networkcellanalyzer.R;
+import com.anthonyjsaab.networkcellanalyzer.R;
 
 /**
  * A placeholder fragment containing a simple view.
